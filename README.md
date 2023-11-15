@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# What is this?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I created an Electron application that uses Rust code packed into a node module. This software performs fast image manipulation (just positive/negative image conversion now). Future iterations will include a JEPG converter using a DCT-based image compression algorithm.
 
 ## Available Scripts
 
